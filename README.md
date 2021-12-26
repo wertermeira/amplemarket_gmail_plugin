@@ -2,7 +2,7 @@
 
 ## Video demo
 You can watch video here \
-https://youtu.be/nxqQ_G4VzAE
+https://youtu.be/ukgmry2PAko
 
 ### Instructions
 to run plugin check here: https://inboxsdk.github.io/inboxsdk-docs/#running-your-hello-world-extension
