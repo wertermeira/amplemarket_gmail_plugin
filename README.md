@@ -1,7 +1,7 @@
 # AmmpleMarket Challange
 
 ## Video demo
-You can watch video here \
+You can watch the video here \
 https://youtu.be/ukgmry2PAko
 
 ### Instructions
